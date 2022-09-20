@@ -964,6 +964,11 @@ about
   margin: auto;
 }
 
+#rara{
+  font-weight: 550;
+  font-size: medium;
+  text-align: justify;
+}
 
 #about {
   padding: 120px 0px 0px 0px;
