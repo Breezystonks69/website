@@ -955,6 +955,15 @@ ul.slick-dots {
 about
 ---------------------------------------------
 */
+#papapa{
+  font-weight: 900;
+}
+
+#papa{
+  display: flex;
+  margin: auto;
+}
+
 
 #about {
   padding: 120px 0px 0px 0px;
